@@ -38,3 +38,7 @@ do {
   // Code to be executed for each element
 }
 ```
+
+## for...in Loop
+
+This loop is used to iterate over the enumerable properties of an object. It's not recommended for iterating over arrays, but it's useful for iterating over object properties.
