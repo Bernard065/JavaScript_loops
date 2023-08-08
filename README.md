@@ -29,3 +29,12 @@ do {
 } while (condition);
 
 ```
+
+## for...of Loop
+ The for...of loop is used to iterate over the values of iterable objects like arrays, strings, maps, sets, etc.
+
+```javascript
+ for (let element of iterable) {
+  // Code to be executed for each element
+}
+```
