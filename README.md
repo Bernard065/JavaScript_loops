@@ -11,11 +11,21 @@ for (initialization; condition; update) {
 ```
 
 
-## While Loop
+## while Loop
 Reapeatedly executes a block of coe as long as a specified condtion is true.
 
 ```javascript
 while (condition) {
   // Code to be executed in each iteration
 }
+```
+
+## do...while Loop
+Similar to while loop but the code is executed at least once before the condition is checked
+
+```javascript
+do {
+  // Code to be executed in each iteration
+} while (condition);
+
 ```
